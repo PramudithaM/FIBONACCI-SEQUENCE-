@@ -6,15 +6,21 @@
 #Another way is to turn on windows subsystem for linux through Turn Windows Features on or off and download a preferred linux subsystem through the Microsoft store and run it.
 
 #Also, it should be confirmed that the C compiler is installed. Otherwise 
+
 sudo apt install gcc 
+
 can be installed by
 
 #The program can be executed by opening the terminal of the linux operating system and following the procedure.
 
 #First the program must be compiled. For that 
-#gcc main.c -o main
+
+gcc main.c -o main
+
 #can be used 
 
 #to implement 
+
 gcc main
+
 #Award should be given.
